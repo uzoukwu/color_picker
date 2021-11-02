@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lesson_three_exercise_one</string>
+    <string name="tvHeader">Select a color: </string>
+    <string name="rbWhite">White</string>
+    <string name="rbRed">Red</string>
+    <string name="rbBlue">Blue</string>
+    <string name="rbGreen">Green</string>
+    <string name="rbCyan">Cyan</string>
+    <string name="rbLightGray">Light Gray</string>
+    <string name="rbMagenta">Magenta</string>
+</resources>
